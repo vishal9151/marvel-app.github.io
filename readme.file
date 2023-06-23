@@ -1,0 +1,39 @@
+# Marvel App
+
+This is the repository for the Marvel App, a project aimed at showcasing Marvel superheroes and providing information about them.
+
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+The Marvel App is a web application that allows users to explore various Marvel superheroes, read their biographies, view their images, and discover interesting facts about them. It provides an interactive and engaging experience for fans of Marvel comics and movies.
+
+## Features
+
+- Browse a collection of Marvel superheroes
+- View detailed information about each superhero, including their biography, powers, and abilities
+- See high-quality images of superheroes
+- Discover interesting facts and trivia about Marvel characters
+- Search for specific superheroes
+- User-friendly and intuitive interface
+
+## Installation
+
+To run the Marvel App locally on your machine, please follow these steps:
+
+1. Clone this repository:
+
+   ```shell
+   git clone https://github.com/vishal9151/marvel-app.github.io.git
+   2. Navigate to the project directory:
+   cd marvel-app.github.io
+3.Open the index.html file in your web browser.
+
+That's it! You should now be able to access and use the Marvel App on your local machine.
